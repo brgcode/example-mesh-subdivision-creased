@@ -2,7 +2,7 @@
 Mesh Creased Catmull-Clark
 **************************
 
-.. figure:: image.png
+.. figure:: mesh-subdivision-creased.png
     :figclass: figure
     :class: figure-img img-fluid
 
